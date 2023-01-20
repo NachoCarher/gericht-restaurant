@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# visual studio
+.vs
+
 # production
 /build
 
